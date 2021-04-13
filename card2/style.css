@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Indie Flower', cursive;
+}
+    
+
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px rgb(23, 6, 39);
+    border-radius: 10px;
+    width: 80%;
+    margin: 20px 0 0 20px;
+    box-shadow: 3px 3px 10px rgb(23, 6, 39);
+
+}
+.tamanioTitulo{
+    font-size: 50px;
+}
+.fondoLila{
+    background-color: rgb(225, 200, 248);
+}
+
+.textoVioleta{
+    color:rgb(23, 6, 39);
+}
+
+.tamanio{
+    width:50%;
+}
+
+#imagen{
+    border-radius: 10px;
+}
