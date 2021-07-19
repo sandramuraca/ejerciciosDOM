@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nombre{
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
